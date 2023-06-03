@@ -1,7 +1,7 @@
 {
-    "name": "queen_amdi-multi_device",
+    "name": "saad's-multi_device",
     "version": "4.0.7",
-    "description": "Queen Amdi [WA Multi-device] - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
+    "description": "Saad's bot - A WhatsApp based third party application that provide many services with a real-time automated conversational experience.",
     "main": "./assets/amdiModule.js",
     "scripts": {
         "package": "yarn install --network-concurrency 1",
@@ -19,8 +19,8 @@
     "keywords": [
         "whatsapp"
     ],
-    "author": "Black Amda",
-    "developer": "AN Tech",
+    "author": "Saad Umar",
+    "developer": "SaadHacker",
     "license": "GPL-3.0-or-later",
     "bugs": {
         "url": "https://github.com/BlackAmda/QueenAmdi/issues"
