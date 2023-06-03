@@ -10,14 +10,14 @@
 | |\/| | | | | | __| |_____| | | |/ _ \ \ / / |/ __/ _ \
 | |  | | |_| | | |_| |_____| |_| |  __/\ V /| | (_|  __/
 |_|  |_|\__,_|_|\__|_|     |____/ \___| \_/ |_|\___\___|
-* @project_name Queen Amdi [WA Multi-device]
+* @project_name Saad's bot [WA Multi-device]
 * @author BlackAmda <https://github.com/BlackAmda>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
 * @version 4.0.7
-* @file  _amdi_menu.js - QueenAmdi bot main menu
+* @file  _amdi_menu.js - Saad's bot main menu
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2022 Saad Umar, SaadHacker. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
@@ -37,7 +37,7 @@ AMDI({ cmd: ["panel", "list", "menu"], desc: "Queen Amdi Main Menu", type: "prim
    
     if (input) return;
 
-    const audioURL = amdiVoice
+    const audioURL = Voice
     const pttStatus = true
     let mimeType = msgDevice == 'ios' ? 'audio/mp4' : 'audio/ogg; codecs=opus'
     await sendAudioMsg({ url: audioURL }, {mimetype: mimeType, ptt: pttStatus});
