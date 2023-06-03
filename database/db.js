@@ -1,12 +1,12 @@
 /**
-* @project_name Queen Amdi [WA Multi-device]
+* @project_name Saad's bot [WA Multi-device]
 * @author BlackAmda <https://github.com/BlackAmda>
 * @description A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience
 * @link <https://github.com/BlackAmda/QueenAmdi>
 * @version 4.0.7
-* @file  db.js - All Queen Amdi Databases chart.
+* @file  db.js - All Saad's bot Databases chart.
 
-© 2022 Black Amda, ANTECH. All rights reserved.
+© 2022 Saad Umar, SaadHacker. All rights reserved.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.*/
 
