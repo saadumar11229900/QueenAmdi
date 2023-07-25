@@ -1,10 +1,10 @@
 {
-    "name": "Queen Amdi",
-    "description": "Queen Amdi [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
+    "name": "Saad's bot",
+    "description": "Saad's [Multi-device] - A WhatsApp based 3ʳᵈ party application that provide many services with a real-time automated conversational experience. 💃🏻❤️",
     "keywords": [
-        "Queen Amdi",
+        "Saad's bot",
         "WhatsApp",
-        "Black Amda",
+        "Saad Umar",
         "multi-device"
     ],
     "website": "https://amdaniwasa.com/",
@@ -29,7 +29,7 @@
         "TZ": {
             "description": "Your timezone",
             "required": true,
-            "value": "Asia/Colombo"
+            "value": "Asia/karachi"
         }
     },
     "buildpacks": [
